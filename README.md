@@ -185,7 +185,7 @@ razor-mediate/
 
 ## 👤 Team
 
-**Hardi** — Full-stack development, AI agent architecture, UI/UX design
+**Hardik** — Full-stack development, AI agent architecture, UI/UX design
 
 ---
 
