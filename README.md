@@ -189,6 +189,5 @@ razor-mediate/
 
 ---
 
-## 📄 License
-
-Built for Razorpay AI Hackathon 2026. All rights reserved.
+## Media link
+https://drive.google.com/file/d/1OB6NbHrWv8HBVEtMiomcUplOoomkgfzH/view?usp=sharing
