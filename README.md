@@ -5,7 +5,9 @@
 RazorMediate is an intelligent dispute mediation platform that recovers failed and disputed payments through real-time conversational AI. It diagnoses payment failures, negotiates settlements, and structures repayment plans — all within Razorpay's compliance framework.
 
 ---
-
+Media
+https://drive.google.com/file/d/1OB6NbHrWv8HBVEtMiomcUplOoomkgfzH/view?usp=sharing
+----
 ## ✨ What It Does
 
 | Capability | Description |
@@ -189,5 +191,3 @@ razor-mediate/
 
 ---
 
-## Media link
-https://drive.google.com/file/d/1OB6NbHrWv8HBVEtMiomcUplOoomkgfzH/view?usp=sharing
